@@ -1,0 +1,10 @@
+*.class
+*.log
+
+.bloop/
+.metals/
+.vscode/
+.bsp/
+
+target/
+protobuf/target
